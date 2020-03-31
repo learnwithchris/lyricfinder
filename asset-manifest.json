@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lyricfinder/static/css/main.36497136.chunk.css",
+    "main.js": "/lyricfinder/static/js/main.7c3c6a35.chunk.js",
+    "main.js.map": "/lyricfinder/static/js/main.7c3c6a35.chunk.js.map",
+    "runtime-main.js": "/lyricfinder/static/js/runtime-main.b6ab8e1f.js",
+    "runtime-main.js.map": "/lyricfinder/static/js/runtime-main.b6ab8e1f.js.map",
+    "static/css/2.de424728.chunk.css": "/lyricfinder/static/css/2.de424728.chunk.css",
+    "static/js/2.e389fc68.chunk.js": "/lyricfinder/static/js/2.e389fc68.chunk.js",
+    "static/js/2.e389fc68.chunk.js.map": "/lyricfinder/static/js/2.e389fc68.chunk.js.map",
+    "index.html": "/lyricfinder/index.html",
+    "precache-manifest.6bf106cb02ba9a46dbc08d7162cd96c8.js": "/lyricfinder/precache-manifest.6bf106cb02ba9a46dbc08d7162cd96c8.js",
+    "service-worker.js": "/lyricfinder/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/lyricfinder/static/css/2.de424728.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/lyricfinder/static/css/main.36497136.chunk.css.map",
+    "static/js/2.e389fc68.chunk.js.LICENSE.txt": "/lyricfinder/static/js/2.e389fc68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6ab8e1f.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.e389fc68.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.7c3c6a35.chunk.js"
+  ]
+}
